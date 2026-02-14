@@ -1,2 +1,0 @@
-# mybot
-my bot src
